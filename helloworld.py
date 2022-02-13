@@ -1,1 +1,2 @@
-print("Hello World!!!")
+def hello(): 
+  return print("Hello from far far galaxy!!!")
